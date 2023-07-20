@@ -1,12 +1,15 @@
 .header-content {
     display: flex;
     justify-content: space-between;
-    margin: 38px 240px;
+    margin: 0px 240px;
 }
 
 .logo {
     display: flex;
     gap: 20px;
+}
+span{
+    color: #FF42A5;
 }
 
 .logo h1 {
@@ -24,6 +27,13 @@
 
     width: 100px;
     height: 50px;
-    margin-top: 45px;
-    margin-bottom: 45px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.nav-menu ul{
+    
+}
+.nav-menu ul li{
+    margin-top: 54px;
+    display: inline-flex;
 }
